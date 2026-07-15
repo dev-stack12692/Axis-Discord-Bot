@@ -3,8 +3,8 @@ from pathlib import Path
 
 from axis.utils.database import init_db, get_prefix_guild
 
-OPENROUTER_API_KEY = "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"
-OPENROUTER_MODEL = "nvidia/nemotron-3-super-120b-a12b:free"
+OPENROUTER_API_KEY = "sk......733835cc4922433"
+OPENROUTER_MODEL = "llm_model"
 
 
 def get_prefix(bot, message):
